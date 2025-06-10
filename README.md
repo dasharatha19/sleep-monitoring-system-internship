@@ -3,7 +3,7 @@ main files.ipynb contains cells of code where it includes convertion of annotati
 
 final_stiff_to.ipynb file contain complete step by step code for custom laoding the dataset,creating batches,defining the tiny yolo v2 architecture(compatible for microcontroller),loss function, validation datasetloader,training loop,validation loop,tesing model performance and real time inference.
 
-deep_final.ipynb file contains the light weight High resolution network for deep pose estimation and face detection,caluculates ear ,mar and blink rate and based on that details we make sleep behaviour classification. 
+deep_final.ipynb file contains the light weight High resolution network(compatible for microcontroller) for deep pose estimation and face detection,caluculates ear ,mar and blink rate and based on that details we make sleep behaviour classification. 
 
 wider face link-http://shuoyang1213.me/WIDERFACE/
 
