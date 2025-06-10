@@ -12,3 +12,5 @@ Download 4 files (WIDER_train,WIDER_test,WIDER_val and the annotation file)
 WFLW link-https://wywu.github.io/projects/LAB/WFLW.html
 
 Download 2 files (WFLW training and testing image,WFLW Face annotation)
+
+Before running the code try to change the path and run.
