@@ -5,8 +5,10 @@ final_stiff_to.ipynb file contain complete step by step code for custom laoding 
 
 deep_final.ipynb file contains the light weight High resolution network for deep pose estimation and face detection,caluculates ear ,mar and blink rate and based on that details we make sleep behaviour classification. 
 
-wider face link-
+wider face link-http://shuoyang1213.me/WIDERFACE/
+
 Download 4 files (WIDER_train,WIDER_test,WIDER_val and the annotation file)
 
-WFLW link-
+WFLW link-https://wywu.github.io/projects/LAB/WFLW.html
+
 Download 2 files (WFLW training and testing image,WFLW Face annotation)
